@@ -6,7 +6,7 @@ A matrimony database management system that simplifies the matchmaking process.
 Built using SQL (Oracle 11g) and Java Swings palette.
 
 
-##Selective screenshots
+## Selective screenshots
 
 ![image](https://user-images.githubusercontent.com/58363905/111207221-55514700-85ef-11eb-91d5-07c9a026f5b0.png)
 
